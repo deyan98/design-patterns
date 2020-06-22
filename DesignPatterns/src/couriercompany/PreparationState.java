@@ -2,7 +2,7 @@ package couriercompany;
 
 public class PreparationState implements State {
 
-	private String stateName = "състояние на подготовка";
+	private String stateName = "СЃСЉСЃС‚РѕСЏРЅРёРµ РЅР° РїРѕРґРіРѕС‚РѕРІРєР°";
 	
 	@Override
 	public void applyState(Context context) {

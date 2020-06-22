@@ -11,5 +11,4 @@ public class InsidePlovdivEmployee extends Employee {
 		System.out.println("Пратка за Пловдив -> " + call);
 
 	}
-
 }

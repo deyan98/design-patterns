@@ -24,7 +24,7 @@ public abstract class Employee {
 			return;
 		}
 		
-		System.out.println("Пратката не може да бъде обработена");
+		System.out.println("РџСЂР°С‚РєР°С‚Р° РЅРµ РјРѕР¶Рµ РґР° Р±СЉРґРµ РѕР±СЂР°Р±РѕС‚РµРЅР°");
 	}
 	
 	abstract protected void callEmployee(String call);

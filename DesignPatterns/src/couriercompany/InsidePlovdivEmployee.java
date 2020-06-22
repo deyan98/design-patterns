@@ -8,7 +8,7 @@ public class InsidePlovdivEmployee extends Employee {
 
 	@Override
 	protected void callEmployee(String call) {
-		System.out.println("Ïðàòêà çà Ïëîâäèâ -> " + call);
+		System.out.println("ÐŸÑ€Ð°Ñ‚ÐºÐ° Ð·Ð° ÐŸÐ»Ð¾Ð²Ð´Ð¸Ð² -> " + call);
 
 	}
 

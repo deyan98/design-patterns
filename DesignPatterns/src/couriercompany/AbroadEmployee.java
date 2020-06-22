@@ -4,7 +4,7 @@ public class AbroadEmployee extends Employee{
 	
 	@Override
 	protected void callEmployee(String call) {
-		System.out.println("Ïðàòêà çà ÷óæáèíà -> " + call);
+		System.out.println("ÐŸÑ€Ð°Ñ‚ÐºÐ° Ð·Ð° Ñ‡ÑƒÐ¶Ð±Ð¸Ð½Ð° -> " + call);
 
 	}
 }

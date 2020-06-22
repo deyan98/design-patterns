@@ -8,7 +8,7 @@ public class CountryEmployee extends Employee {
 
 	@Override
 	protected void callEmployee(String call) {
-		System.out.println("Ïðàòêà çà ñòðàíàòà -> " + call);
+		System.out.println("ÐŸÑ€Ð°Ñ‚ÐºÐ° Ð·Ð° ÑÑ‚Ñ€Ð°Ð½Ð°Ñ‚Ð° -> " + call);
 
 	}
 

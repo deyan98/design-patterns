@@ -11,9 +11,9 @@ public class ObserverState implements Observer {
 
 	@Override
 	public void setObserver(Context context) {
-		if(this.name == "състояние на подготовка") {
+		if(this.name == "СЃСЉСЃС‚РѕСЏРЅРёРµ РЅР° РїРѕРґРіРѕС‚РѕРІРєР°") {
 			this.context = context;
-			System.out.println(" -> пренасяне на пратката до склада");
+			System.out.println(" -> РїСЂРµРЅР°СЃСЏРЅРµ РЅР° РїСЂР°С‚РєР°С‚Р° РґРѕ СЃРєР»Р°РґР°");
 		}
 	}
 	

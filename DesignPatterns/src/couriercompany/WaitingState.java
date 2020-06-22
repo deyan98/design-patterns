@@ -2,7 +2,7 @@ package couriercompany;
 
 public class WaitingState implements State {
 	
-	private String stateName = "изчакване на клиент";
+	private String stateName = "РёР·С‡Р°РєРІР°РЅРµ РЅР° РєР»РёРµРЅС‚";
 
 	@Override
 	public void applyState(Context context) {
